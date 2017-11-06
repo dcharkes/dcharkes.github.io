@@ -1,8 +1,13 @@
 # Daco Harkes
 
-(personal homepage under construction)
+I am a PhD student in the [Programming Languages Research Group](http://eelcovisser.org/wiki/group) at the [Delft University of Technology](https://www.tudelft.nl/) under the supervision of [Eelco Visser](http://eelcovisser.org/).
+I am interested in programming languages in general, and specifically in declarative programming and incremental computing.
+My research is focussed on declarative programming for (web-based) information systems.
+During my PhD I have created IceDust, a domain-specific language for incrementally computing derived values in information systems.
 
-## About Me
+I am an active participant in the research community.
+I was the part of the [SPLASH 2015](https://2015.splashcon.org), [2016](https://2016.splashcon.org), and [2017](https://2017.splashcon.org) organizing committee as [Student Volunteer Co-Chair](https://conf.researchr.org/profile/conf/dacoharkes), and volunteered at [SPLASH 2014](https://2014.splashcon.org), [ECOOP 2015](https://2015.ecoop.org/), and [ECOOP 2016](https://2016.ecoop.org/).
+I have attended two Dagstuhl Seminars: [Domain-Specific Languages](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15062) and [Programming Language Techniques for Incremental and Reactive Computing](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=16402), and cooperated in editing the [report](http://dx.doi.org/10.4230/DagRep.5.2.26) of the first.
 
 ## Publications
 
@@ -63,3 +68,37 @@ In _13th international conference on Modularity - Student Research Competition_,
 
 
 ## Projects
+
+__IceDust__  
+IceDust is a domain-specific language for data modeling and calculating derived values.
+The data modeling in IceDust features bidirectional relations and multiplicities.
+These multiplicities are part of the type sytem, avoiding null pointer exceptions.
+Derived values in IceDust are specified as expressions (not unlike Excel).
+These derived values can be calculated on-demand, incrementally, or eventually.
+The IceDust compiler generates code for incremental and eventual derived value updates.
+The various calculation strategies can be composed, and the IceDust type system checks for sound composition.  
+[[Source](https://github.com/MetaBorgCube/IceDust), 
+ [Download](http://buildfarm.metaborg.org/job/metaborgcube/job/IceDust-EclipseGen/job/master/lastSuccessfulBuild/artifact/dist/eclipse/)]
+
+__PixieDust__  
+PixieDust is a domain-specific language for building reactive client-side browser applications.
+Views are defined as functions in PixieDust, and the PixieDust compiler generates code which maintains views incrementally.
+PixieDust is a language extension of IceDust.  
+[[Source](https://github.com/MetaBorgCube/PixieDust)]
+
+__WebLab__  
+WebLab is a learning management system with automatic grading of programming assignments based on unit testing.
+WebLab contains extensive grading rules for composed assignments: weighted averaging, deadlines (and personal deadline overrides), late penalties, bonus assignments, pass n-out-of-m, etc.
+Moreover, WebLab features extensive progress statistics for course managers.
+All these calculations are expressed in IceDust.  
+[[Link](https://weblab.tudelft.nl/)]
+
+## Contact
+Daco Harkes  
+Office: HB 8.260  
+Email: d.c.harkes@tudelft.nl
+
+Address:  
+Mekelweg 4  
+2628 CD Delft  
+The Netherlands
