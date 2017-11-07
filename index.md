@@ -121,5 +121,6 @@ Since 2014, this lab has been improved upon by others adding unit tests for user
 
 ## Contact
 Daco Harkes  
-Email: d.c.harkes@tudelft.nl  
-Office: HB 8.260, Mekelweg 4 (Faculty EEMCS), Delft
+Email: [d.c.harkes@tudelft.nl](mailto:d.c.harkes@tudelft.nl)  
+Office: HB 8.260, Mekelweg 4 (Faculty EEMCS), Delft  
+LinkedIn: [dcharkes](https://www.linkedin.com/in/dcharkes/)
