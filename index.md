@@ -93,12 +93,33 @@ Moreover, WebLab features extensive progress statistics for course managers.
 All these calculations are expressed in IceDust.  
 [[Link](https://weblab.tudelft.nl/)]
 
+## Teaching
+
+2017
+
+__Supervising MSc Students__  
+Currently I am supervising two master students.
+One is working on PixieDust (see above), the other is working on a domain-specific language for terminating computations.
+I hope to link to their theses and papers here soon.
+
+2015
+
+__DSLDI Summer School__  
+At the [DSLDI summer school of 2015](http://vjovanov.github.io/dsldi-summer-school/) I assisted at the hands on for building languages with [Spoofax](http://spoofax.org).
+I helped people getting started, and had to answer various questions about syntax, static semantics and transformations.
+
+2014
+
+__Teaching Assistance__  
+I developed the lab for the [Concepts of Programming Languages course](https://weblab.tudelft.nl/ti2606/), based on the [Principles of Programming Languages](http://cs.brown.edu/courses/cs173/2012/book/) by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/).
+The lab consists of writing interpreters in Scala for various languages, increasing in difficulty.
+This lab is automatically graded by unit tests.
+Since 2014, this lab has been improved upon by others adding unit tests for user test suites and alike. 
+
+
+
+
 ## Contact
 Daco Harkes  
-Office: HB 8.260  
-Email: d.c.harkes@tudelft.nl
-
-Address:  
-Mekelweg 4  
-2628 CD Delft  
-The Netherlands
+Email: d.c.harkes@tudelft.nl  
+Office: HB 8.260, Mekelweg 4 (Faculty EEMCS), Delft
