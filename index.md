@@ -9,6 +9,9 @@ I am an active participant in the research community.
 I was the part of the [SPLASH 2015](https://2015.splashcon.org), [2016](https://2016.splashcon.org), and [2017](https://2017.splashcon.org) organizing committee as [Student Volunteer Co-Chair](https://conf.researchr.org/profile/conf/dacoharkes), and volunteered at [SPLASH 2014](https://2014.splashcon.org), [ECOOP 2015](https://2015.ecoop.org/), and [ECOOP 2016](https://2016.ecoop.org/).
 I have attended two Dagstuhl Seminars: [Domain-Specific Languages](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15062) and [Programming Language Techniques for Incremental and Reactive Computing](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=16402), and cooperated in editing the [report](http://dx.doi.org/10.4230/DagRep.5.2.26) of the first.
 
+This page lists my scientific activities (publications, research projects, and teaching activities).
+For more information refer to my [curriculum vitae](curriculum-vitae/Daco%20Harkes.pdf).
+
 ## Publications
 
 2017
