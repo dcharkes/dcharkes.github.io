@@ -2,7 +2,7 @@
 
 I am a PhD student in the [Programming Languages Research Group](http://eelcovisser.org/wiki/group) at the [Delft University of Technology](https://www.tudelft.nl/) under the supervision of [Eelco Visser](http://eelcovisser.org/).
 I am interested in programming languages in general, and specifically in declarative programming and incremental computing.
-My research is focussed on declarative programming for (web-based) information systems.
+My research is focused on declarative programming for (web-based) information systems.
 During my PhD I have created IceDust, a domain-specific language for incrementally computing derived values in information systems.
 
 I am an active participant in the research community.
@@ -72,7 +72,7 @@ In _13th international conference on Modularity - Student Research Competition_,
 __IceDust__  
 IceDust is a domain-specific language for data modeling and calculating derived values.
 The data modeling in IceDust features bidirectional relations and multiplicities.
-These multiplicities are part of the type sytem, avoiding null pointer exceptions.
+These multiplicities are part of the type system, avoiding null pointer exceptions.
 Derived values in IceDust are specified as expressions (not unlike Excel).
 These derived values can be calculated on-demand, incrementally, or eventually.
 The IceDust compiler generates code for incremental and eventual derived value updates.
