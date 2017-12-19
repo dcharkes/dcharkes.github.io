@@ -16,8 +16,8 @@ For more information refer to my [curriculum vitae](curriculum-vitae/Daco%20Hark
 
 2018
 
-__PixieDust: Declarative Incremental User Interface Rendering through Static Dependency Tracking__
-Nick ten Veen, __Daco C. Harkes__, and Eelco Visser
+__PixieDust: Declarative Incremental User Interface Rendering through Static Dependency Tracking__  
+Nick ten Veen, __Daco C. Harkes__, and Eelco Visser  
 In _1st Web Programming, Design, Analysis, And Implementation (WPDAI 2018)_, 2018.
 
 2017
