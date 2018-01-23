@@ -104,7 +104,7 @@ All these calculations are expressed in IceDust.
 
 ## Teaching
 
-2017
+2017-2018
 
 __Supervising MSc Students__  
 Currently I am supervising two master students.
