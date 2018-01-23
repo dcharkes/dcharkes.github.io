@@ -153,6 +153,16 @@ Since 2014, this lab has been improved upon by others adding unit tests for user
 [SPLASH 2014](https://2014.splashcon.org) Student Volunteer
 
 
+## Awards
+
+2015
+
+[GTSSE Summer School](http://gttse.wikidot.com/2015:welcome) Best Student Presentation
+
+2014
+
+[Modularity ACM Student Research Competition](http://modularity.info/conference/2014/conference.html) First Prize
+
 
 ## Contact
 Daco Harkes  
