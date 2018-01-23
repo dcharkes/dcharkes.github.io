@@ -126,6 +126,32 @@ This lab is automatically graded by unit tests.
 Since 2014, this lab has been improved upon by others adding unit tests for user test suites and alike. 
 
 
+## Professional Activities
+
+2018
+
+[SLE 2018](https://conf.researchr.org/track/sle-2018/papers) Program Committee  
+[SPLASH 2018](https://2018.splashcon.org) Artifact Evaluation Committee
+
+2017
+
+[SPLASH 2017](https://2017.splashcon.org) Organizing Committee (Student Volunteer Co-Chair)
+
+2016
+
+[SPLASH 2016](https://2016.splashcon.org) Organizing Committee (Student Volunteer Co-Chair)  
+[ECOOP 2016](https://2016.ecoop.org/) Student Volunteer
+
+2015
+
+[SPLASH 2015](https://2015.splashcon.org) Organizing Committee (Student Volunteer Co-Chair)  
+[ECOOP 2015](https://2015.ecoop.org/) Student Volunteer  
+[Dagstuhl Seminar Domain Specific Languages](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15062) Editor Support
+
+2014
+
+[SPLASH 2014](https://2014.splashcon.org) Student Volunteer
+
 
 
 ## Contact
