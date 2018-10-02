@@ -1,6 +1,8 @@
 <img src="https://avatars3.githubusercontent.com/u/3601775?s=200&amp;u=7f768c577dd44784777ee5f29c1ab3be4fdc5b3d&amp;v=4" alt="Daco Harkes" style="float: right; margin-left: 10px; margin-bottom: 10px; margin-top: 0px;">
 
-I am a PhD student in the [Programming Languages Research Group](http://eelcovisser.org/wiki/group) at the [Delft University of Technology](https://www.tudelft.nl/) supervised by [Eelco Visser](http://eelcovisser.org/).
+I am a Software Engineer at Google Aarhus in the Dart VM team.
+
+I am a former PhD student in the [Programming Languages Research Group](http://eelcovisser.org/wiki/group) at the [Delft University of Technology](https://www.tudelft.nl/) supervised by [Eelco Visser](http://eelcovisser.org/).
 I am interested in programming languages in general, and specifically in declarative programming and incremental computing.
 My research is focused on declarative programming for (web-based) information systems.
 During my PhD I have created IceDust, a domain-specific language for incrementally computing derived values in information systems.
