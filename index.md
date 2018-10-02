@@ -18,6 +18,15 @@ For more information refer to my [curriculum vitae](curriculum-vitae/Daco%20Hark
 
 2018
 
+__We should stop claiming generality in our domain-specific language papers__  
+__Daco C. Harkes__  
+In _The Art, Science, and Engineering of Programming_, 2018.  
+In _Proceedings of the 2018 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software_, 2018. (as extended abstract)
+
+__Migrating Business Logic to an Incremental Computing DSL: A Case Study__  
+__Daco C. Harkes__, Elmer van Chastelet, and Eelco Visser  
+In _Proceedings of the 11th ACM SIGPLAN International Conference on Software Language Engineering_, 2018.  
+
 __PixieDust: Declarative Incremental User Interface Rendering through Static Dependency Tracking__  
 Nick ten Veen, __Daco C. Harkes__, and Eelco Visser  
 In _1st Web Programming, Design, Analysis, And Implementation (WPDAI 2018)_, International World Wide Web Conferences Steering Committee, 2018.  
