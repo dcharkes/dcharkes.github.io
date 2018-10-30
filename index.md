@@ -36,7 +36,8 @@ In _Proceedings of the 11th ACM SIGPLAN International Conference on Software Lan
 __PixieDust: Declarative Incremental User Interface Rendering through Static Dependency Tracking__  
 Nick ten Veen, __Daco C. Harkes__, and Eelco Visser  
 In _1st Web Programming, Design, Analysis, And Implementation (WPDAI 2018)_, International World Wide Web Conferences Steering Committee, 2018.  
-[[DOI](https://doi.org/10.1145/3184558.3185978)]
+[[DOI](https://doi.org/10.1145/3184558.3185978),
+ [PDF](publications/WWWcompanion18-PixieDust.pdf)]
 
 2017
 
