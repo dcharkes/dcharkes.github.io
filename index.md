@@ -22,12 +22,16 @@ __We should stop claiming generality in our domain-specific language papers__
 __Daco C. Harkes__  
 In _The Art, Science, and Engineering of Programming_, 2018.   
 In _Proceedings of the 2018 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software_, 2018. (as extended abstract)  
-[[DOI](https://doi.org/10.1145/3276954.3276967)]
+[[DOI](https://doi.org/10.1145/3276954.3276967),
+ [PDF](publications/programming18essay.pdf),
+ [PDF(2)](publications/onward18essay.pdf)]
 
 __Migrating Business Logic to an Incremental Computing DSL: A Case Study__  
 __Daco C. Harkes__, Elmer van Chastelet, and Eelco Visser  
 In _Proceedings of the 11th ACM SIGPLAN International Conference on Software Language Engineering_, 2018.  
-[[DOI](https://doi.org/10.1145/3276604.3276617)]
+[[DOI](https://doi.org/10.1145/3276604.3276617),
+ [PDF](publications/SLE18-WebLab-IceDust.pdf),
+ [Poster](publications/poster-sle18.pdf)]
 
 __PixieDust: Declarative Incremental User Interface Rendering through Static Dependency Tracking__  
 Nick ten Veen, __Daco C. Harkes__, and Eelco Visser  
