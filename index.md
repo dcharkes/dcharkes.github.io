@@ -18,7 +18,7 @@ For more information refer to my [curriculum vitae](curriculum-vitae/Daco%20Hark
 
 2018
 
-__We should stop claiming generality in our domain-specific language papers__  
+__We Should Stop Claiming Generality in Our Domain-Specific Language Papers__  
 __Daco C. Harkes__  
 In _The Art, Science, and Engineering of Programming_, 2018.   
 In _Proceedings of the 2018 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software_, 2018. (as extended abstract)  
