@@ -16,15 +16,18 @@ For more information refer to my [curriculum vitae](curriculum-vitae/Daco%20Hark
 
 ## Publications
 
-2018
+2019
 
 __We Should Stop Claiming Generality in Our Domain-Specific Language Papers__  
 __Daco C. Harkes__  
-In _The Art, Science, and Engineering of Programming_, 2018.   
+In _The Art, Science, and Engineering of Programming_, 2019.   
 In _Proceedings of the 2018 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software_, 2018. (as extended abstract)  
-[[DOI](https://doi.org/10.1145/3276954.3276967),
+[[DOI](https://doi.org/10.22152/programming-journal.org/2019/3/18),
  [PDF](publications/programming18essay.pdf),
+ [DOI(2)](https://doi.org/10.1145/3276954.3276967),
  [PDF(2)](publications/onward18essay.pdf)]
+
+2018
 
 __Migrating Business Logic to an Incremental Computing DSL: A Case Study__  
 __Daco C. Harkes__, Elmer van Chastelet, and Eelco Visser  
