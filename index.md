@@ -1,6 +1,9 @@
 <img src="https://avatars3.githubusercontent.com/u/3601775?s=200&amp;u=7f768c577dd44784777ee5f29c1ab3be4fdc5b3d&amp;v=4" alt="Daco Harkes" style="float: right; margin-left: 10px; margin-bottom: 10px; margin-top: 0px;">
 
-I am a Software Engineer at Google Aarhus in the Dart VM team.
+I am a Software Engineer at Google Aarhus in the Dart compiler and virtual machine team.
+I work on the Dart programming language compiler and virtual machine.
+Dart is an open source programming language.
+You can learn more about Dart on [dartlang.org](https://www.dartlang.org/), and you can track my contributions on [GitHub](https://github.com/dart-lang/sdk/).
 
 I am a former PhD student in the [Programming Languages Research Group](http://eelcovisser.org/wiki/group) at the [Delft University of Technology](https://www.tudelft.nl/) supervised by [Eelco Visser](http://eelcovisser.org/).
 I am interested in programming languages in general, and specifically in declarative programming and incremental computing.
