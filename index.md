@@ -3,7 +3,7 @@
 I am a Software Engineer at Google Aarhus in the Dart compiler and virtual machine team.
 I work on the Dart programming language compiler and virtual machine.
 Dart is an open source programming language.
-You can learn more about Dart on [dartlang.org](https://www.dartlang.org/), and you can track my contributions on [GitHub](https://github.com/dart-lang/sdk/).
+You can learn more about Dart on [dart.dev](https://dart.dev/), and you can track my contributions on [GitHub](https://github.com/dart-lang/sdk/).
 
 I am a former PhD student in the [Programming Languages Research Group](http://eelcovisser.org/wiki/group) at the [Delft University of Technology](https://www.tudelft.nl/) supervised by [Eelco Visser](http://eelcovisser.org/).
 I am interested in programming languages in general, and specifically in declarative programming and incremental computing.
@@ -20,6 +20,12 @@ For more information refer to my [curriculum vitae](curriculum-vitae/Daco%20Hark
 ## Publications
 
 2019
+
+__Declarative Specification of Information System Data Models and Business Logic__  
+__Daco C. Harkes__  
+PhD thesis.  
+[[DOI](https://doi.org/10.4233/uuid:5e9805ca-95d0-451e-a8f0-55decb26c94a),
+ [PDF](https://repository.tudelft.nl/islandora/object/uuid:5e9805ca-95d0-451e-a8f0-55decb26c94a/datastream/OBJ/download)]
 
 __We Should Stop Claiming Generality in Our Domain-Specific Language Papers__  
 __Daco C. Harkes__  
