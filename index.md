@@ -197,5 +197,5 @@ Since 2014, this lab has been improved upon by others adding unit tests for user
 
 ## Contact
 Daco Harkes  
-Email: [d.c.harkes@tudelft.nl](mailto:d.c.harkes@tudelft.nl)  
+Email: [dc.harkes@gmail.com](mailto:dc.harkes@gmail.com)  
 LinkedIn: [dcharkes](https://www.linkedin.com/in/dcharkes/)
