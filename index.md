@@ -5,9 +5,9 @@ I work on the Dart programming language compiler and virtual machine.
 Dart is an open source programming language.
 You can learn more about Dart on [dart.dev](https://dart.dev/), and you can track my contributions on [GitHub](https://github.com/dart-lang/sdk/).
 
-I am a former PhD student in the [Programming Languages Research Group](http://eelcovisser.org/wiki/group) at the [Delft University of Technology](https://www.tudelft.nl/) supervised by [Eelco Visser](http://eelcovisser.org/).
+I received my PhD in the [Programming Languages Research Group](http://eelcovisser.org/wiki/group) at the [Delft University of Technology](https://www.tudelft.nl/) supervised by [Eelco Visser](http://eelcovisser.org/).
 I am interested in programming languages in general, and specifically in declarative programming and incremental computing.
-My research is focused on declarative programming for (web-based) information systems.
+My research was focused on declarative programming for (web-based) information systems.
 During my PhD I have created IceDust, a domain-specific language for incrementally computing derived values in information systems.
 
 I am an active participant in the research community.
@@ -158,6 +158,10 @@ Since 2014, this lab has been improved upon by others adding unit tests for user
 
 
 ## Professional Activities
+
+2021
+
+[MoreVMs 2021](https://2021.programming-conference.org/home/MoreVMs-2021) Program Committee
 
 2018
 
